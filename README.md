@@ -1,4 +1,4 @@
-# Pipeline de Auditoría de Añadas (Catálogo Web vs. Recuentos de Tienda)
+# 🍇 Pipeline de Auditoría de Añadas (Catálogo Web vs. Recuentos de Tienda)
 
 Este proyecto consiste en un pipeline de datos desarrollado en **Python (Google Colab)** para automatizar la auditoría de inventario y reconciliación de productos (añadas de vinos/licores) entre el **Catálogo Web (CMS)** y los **Recuentos Físicos de Tiendas**.
 
